@@ -1,6 +1,7 @@
 # VS Code (Browser-Based) Access Guide
+A cloud-based VS Code environment hosted on ECS with secure access via browser and password authentication, Each instance is preconfigured with Python, required libraries, and an IAM role for Amazon Bedrock access. Users can build, test, and run GenAI applications directly from VS Code without managing credentials. Designed for hands-on development, experimentation, and rapid prototyping with foundation models.
 
-Follow the steps below to access your cloud-hosted VS Code environment.
+## Follow the steps below to access your cloud-hosted VS Code environment.
 
 ### Step 1: Open Environment Details
 
@@ -47,4 +48,4 @@ You will now enter the VS Code workspace.
 - S3 access (if enabled)
 - Terminal access inside browser
 
-No setup is required everything is ready to use.
+#### No setup is required everything is ready to use.
