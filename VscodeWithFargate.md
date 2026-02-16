@@ -7,11 +7,11 @@ Follow the steps below to access your cloud-hosted VS Code environment.
 - After the lab is provisioned, go to the Environment page.
 You will find:
 
-    - VS Code URL
+    - VS Code URL(1)
 
-    - Password
+    - Password(2)
 
-   ![Screenshot](/CEBR/Labguide/images/env-vscode.jpg)
+   ![](images/env-vscode.jpg)
 
 keep this page open for reference.
 
@@ -31,7 +31,7 @@ The browser-based VS Code interface will load.
 
 - Click on Submit
 
-   ![Screenshot](/CEBR/Labguide/images/login-vscode.jpg)
+   ![](images/login-vscode.jpg)
 
 You will now enter the VS Code workspace.
 
