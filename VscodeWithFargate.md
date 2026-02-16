@@ -37,6 +37,8 @@ You will now enter the VS Code workspace.
 
 ### Step 4: Explore the Preconfigured Workspace
 
+   ![](images/Snag_20014088.png)
+   
 - Your VS Code environment is already configured with:
 - Python and required extensions
 - Sample scripts and notebooks
