@@ -5,7 +5,7 @@ A cloud-based VS Code environment hosted on ECS with secure access via browser a
 
 ### Step 1: Open Environment Details
 
-- After the lab is provisioned, go to the Environment page.
+- After the environment is provisioned, go to the Environment page.
 You will find:
 
     - VS Code URL(1)
