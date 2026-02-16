@@ -3,7 +3,7 @@
 
 Once you're ready to dive in, your virtual machine and **instructions** will be right at your fingertips within your web browser.
 
-![](images/guide-01.jpg)
+
 
 ## Zoom In/Zoom Out
  
@@ -15,13 +15,13 @@ To adjust the zoom level for the environment page, click the **A↕: 100%** icon
  
 To get a better understanding of your resources and credentials, navigate to the **Environment** tab.
  
-![](images/gmc3.png)
+![](images/env-details.png)
 
 ## Utilizing the Split Window Feature
  
 For convenience, you can open the instructions in a separate window by selecting the **Split Window** button from the Top right corner.
  
-![](images/gmc4.png)
+![](images/split-feature.png)
 
 ## Managing Your Virtual Machine
  
@@ -31,9 +31,8 @@ Feel free to **Start, Stop, or Restart (2)** your virtual machine as needed from
 
 ## Let's Get Started with Azure Portal
  
-1. On your virtual machine, click on the **Azure Portal** icon as shown below:
+1. Navigate to Azure Portal.
  
-     ![OpenAI](images/sc900-image(1).png)
 
 1. On the **Sign in to Microsoft Azure** tab, you will see the login screen. Enter the following email/username, and click on **Next (2)**. 
 
