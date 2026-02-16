@@ -2,7 +2,7 @@
 
 A browser-based Jupyter environment hosted on ECS with secure password access for each user. Preconfigured with Python, data science libraries, and an IAM role enabling direct Amazon Bedrock integration. Users can analyze datasets, build ML workflows, and experiment with GenAI models without managing infrastructure. Designed for hands-on data science, visualization, and AI experimentation in an isolated cloud environment.
 
-#### Follow the steps below to access your cloud-hosted Jupyter environment.
+## Follow the steps below to access your cloud-hosted Jupyter environment.
 
 ### Step 1: Access Jupyter from Browser
 
@@ -31,12 +31,6 @@ You will now enter the Jupyter workspace.
 - S3 access 
 
    ![](images/preconfig.jpg)
-You can start working immediately without any setup.
 
-### Step 7: Troubleshooting
+#### You can start working immediately without any setup.
 
-- If Jupyter does not open:
-- Wait 2–3 minutes after Environment launch (container startup time)
-- Ensure URL is opened exactly as provided
-- Use Chrome or Edge browser
-- Recheck password (case-sensitive)
