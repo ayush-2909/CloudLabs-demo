@@ -1,4 +1,8 @@
-# Jupyter Lab Environment Access Guide
+# Jupyter (Browser-Based) Environment Access Guide
+
+A browser-based Jupyter environment hosted on ECS with secure password access for each user. Preconfigured with Python, data science libraries, and an IAM role enabling direct Amazon Bedrock integration. Users can analyze datasets, build ML workflows, and experiment with GenAI models without managing infrastructure. Designed for hands-on data science, visualization, and AI experimentation in an isolated cloud environment.
+
+#### Follow the steps below to access your cloud-hosted Jupyter environment.
 
 ### Step 1: Access Jupyter from Browser
 
@@ -6,7 +10,7 @@
 - Paste it into your browser (Chrome or Edge recommended).
 - Press Enter.
 
-Jupyter Lab will open in your browser.
+Jupyter Environment will open in your browser.
 
 ### Step 2: Login to Jupyter
 
@@ -32,7 +36,7 @@ You can start working immediately without any setup.
 ### Step 7: Troubleshooting
 
 - If Jupyter does not open:
-- Wait 2–3 minutes after lab launch (container startup time)
+- Wait 2–3 minutes after Environment launch (container startup time)
 - Ensure URL is opened exactly as provided
 - Use Chrome or Edge browser
 - Recheck password (case-sensitive)
