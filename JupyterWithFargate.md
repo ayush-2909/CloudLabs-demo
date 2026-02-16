@@ -13,7 +13,7 @@ Jupyter Lab will open in your browser.
 - Enter the password provided on the environment page.
 - Click Log in.
 
-   ![Screenshot](../images/Jupyter/login-pass1.jpg)
+   ![](images/login-pass1.jpg)
 
 You will now enter the Jupyter workspace.
 
@@ -26,7 +26,7 @@ You will now enter the Jupyter workspace.
 - Amazon Bedrock access
 - S3 access 
 
-   ![Screenshot](../images/Jupyter/preconfig.jpg)
+   ![](images/preconfig.jpg)
 You can start working immediately without any setup.
 
 ### Step 7: Troubleshooting
