@@ -1,0 +1,12 @@
+[
+    {
+      "Name": "vscode-with-Bedrock",
+      "Language": "English",
+      "Files": [
+         {
+          "RawFilePath": "https://raw.githubusercontent.com/ayush-2909/CloudLabs-demo/refs/heads/main/vscodeWithFargate.md",
+          "Order": 1
+        } 
+      ]
+    }
+  ]
