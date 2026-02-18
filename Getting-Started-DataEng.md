@@ -57,4 +57,11 @@ Feel free to **Start, Stop, or Restart (2)** your virtual machine as needed from
 
     ![OpenAI](images/03.png)
 
-## Now, you are all set to start!
+
+## Continue to Explore Your Environment
+
+You are now successfully signed in and ready to begin.
+
+Click **Next** at the bottom of this page to learn more about your virtual machine environment, available tools, and how to access the preconfigured data platforms.
+
+   ![Launch Azure Portal](../media/sc900-image(3).png)
