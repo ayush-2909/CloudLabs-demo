@@ -9,8 +9,6 @@ No cloud setup or additional access is required.
 
 You can immediately begin working with data, running notebooks, building reports, and connecting to databases.
 
----
-
 # What is Included
 
 ## 1. Windows Data Engineering Environment
