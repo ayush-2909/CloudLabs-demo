@@ -38,7 +38,7 @@ Feel free to **Start, Stop, or Restart (2)** your virtual machine as needed from
 
    * **Email/Username:** <inject key="AzureAdUserEmail"></inject> **(1)**
    
-      ![OpenAI](images/signin.png)
+      ![OpenAI](images/fabric-portal-login-2108.png)
      
 1. Now enter the following password and click on **Sign in (2)**.
    
@@ -53,9 +53,13 @@ Feel free to **Start, Stop, or Restart (2)** your virtual machine as needed from
 
 1. You will be directed to the Fabric Home,click on **Fabric (1)** on the bottom left corner and then select **Power BI (2).**
 
-    ![OpenAI](images/03.png)
+    ![OpenAI](images/powerbi1-2108.png)
+
+    ![OpenAI](images/powerbi2-2108.png)
 
 1. On the Welcome to Fabric view screen, click **Cancel**.
+
+    ![OpenAI](images/cancel.png)
    
 ## Continue to Explore Your Environment
 
