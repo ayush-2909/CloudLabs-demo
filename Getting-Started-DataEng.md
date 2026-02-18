@@ -30,13 +30,11 @@ Feel free to **Start, Stop, or Restart (2)** your virtual machine as needed from
  
 ![](images/gmc5.png)
 
-## Let's Get Started with Azure Portal
+## Sign in to Microsoft Fabric
  
-1. On your virtual machine, click on the **Azure Portal** icon as shown below:
+1. Microsoft Fabric will automatically open in the browser when you access the virtual machine.
  
-     ![OpenAI](images/sc900-image(1).png)
-
-1. On the **Sign in to Microsoft Azure** tab, you will see the login screen. Enter the following email/username, and click on **Next (2)**. 
+1. Enter the following email/username, and then click on **Submit**.
 
    * **Email/Username:** <inject key="AzureAdUserEmail"></inject> **(1)**
    
@@ -49,19 +47,20 @@ Feel free to **Start, Stop, or Restart (2)** your virtual machine as needed from
       ![OpenAI](images/TAP-1.png)
 
      
-1. If prompted to **Stay signed in?**, click **"No"**.
+1. Click Sign in and follow the prompts to sign into Fabric.
  
    ![Asklater](images/stay.png)
 
-1. If a **Welcome to Microsoft Azure** pop-up window appears, simply click **Cancel** to skip the tour.
+1. You will be directed to the Fabric Home,click on **Fabric (1)** on the bottom left corner and then select **Power BI (2).**
 
     ![OpenAI](images/03.png)
 
-
+1. On the Welcome to Fabric view screen, click **Cancel**.
+   
 ## Continue to Explore Your Environment
 
 You are now successfully signed in and ready to begin.
 
 Click **Next** at the bottom of this page to learn more about your virtual machine environment, available tools, and how to access the preconfigured data platforms.
 
-   ![Launch Azure Portal](../media/sc900-image(3).png)
+   ![Launch Azure Portal](images/sc900-image(3).png)
