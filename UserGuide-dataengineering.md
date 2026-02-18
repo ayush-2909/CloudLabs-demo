@@ -25,7 +25,9 @@ This virtual machine contains commonly used tools for data engineering and analy
 * VS Code
 * Git
 
-All tools are preinstalled and configured.
+    ![](images/tool-installed.jpg)
+
+**All tools are preinstalled and configured.**
 
 ---
 
@@ -37,6 +39,7 @@ A managed relational database is already deployed.
 
 Connection details are provided in the Enviroment tab.
 
+  ![](images/aws-env.jpg)
 
 You can connect using:
 
@@ -54,6 +57,8 @@ A Fabric workspace and SQL endpoint are already available.
 
 Connection details are provided in the Enviroment tab.
 
+  ![](images/azure-env.jpg)
+    
 You can use:
 
 * Power BI Desktop
@@ -69,9 +74,11 @@ No Azure portal access is required.
 Sample datasets are stored locally:
 
 ```
-C:\Data\data\
+C:\DataEngineSandbox\data
 ```
 
+  ![](images/samples.jpg)
+    
 Examples:
 
 * sales.csv
@@ -92,12 +99,17 @@ These files can be used for:
 ## Open Jupyter Notebook
 
 1. Double-click **Jupyter Notebook** icon on desktop
-2. Navigate to:
+   
+    ![](images/use-jupyter.jpg)
+   
+3. Navigate to:
 
 ```
 C:\Data\Notebooks
 ```
 
+  ![](images/notebooks.jpg)
+    
 3. Open the starter notebook
 4. Run cells to begin working with sample data
 
@@ -108,13 +120,13 @@ C:\Data\Notebooks
 1. Open **DBeaver** from desktop
 2. Click "New Database Connection"
 3. Choose PostgreSQL (or MySQL)
-4. Enter details from:
+4. Enter details from the Enviroment tab:
+   
 
-```
-C:\Instructions\connections.txt
-```
+![](images/aws-env.jpg)
 
-5. Test connection → Finish
+
+6. Test connection → Finish
 
 You can now run SQL queries.
 
@@ -128,15 +140,12 @@ You can now run SQL queries.
 
    * PostgreSQL (for AWS RDS)
    * SQL endpoint (for Fabric)
-4. Enter connection details from:
+4. Enter details from the Enviroment tab:
+   
+    ![](images/azure-env.jpg)
+   
 
-```
-C:\Instructions\connections.txt
-```
-
-5. Load data and build reports
-
-A sample Power BI file may already be included for reference.
+6. Load data and build reports
 
 ---
 
@@ -144,6 +153,8 @@ A sample Power BI file may already be included for reference.
 
 Spark is preconfigured.
 
+  ![](images/sparks.jpg)
+    
 Example workflow:
 
 1. Open Jupyter
