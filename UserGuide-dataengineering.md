@@ -100,10 +100,10 @@ C:\Data\Notebooks
 1. Open **DBeaver** from desktop
 2. Click "New Database Connection"
 3. Choose PostgreSQL (or MySQL)
-4. Enter details from the Enviroment tab:
+4. Enter details from the Enviroment:
    
 
-![](images/aws-env.jpg)
+  ![](images/azure-env.jpg)
 
 
 6. Test connection → Finish
@@ -120,9 +120,9 @@ You can now run SQL queries.
 
    * PostgreSQL (for AWS RDS)
    * SQL endpoint (for Fabric)
-4. Enter details from the Enviroment tab:
+4. Enter details from the Desktop file **AzureCreds** tab:
    
-    ![](images/azure-env.jpg)
+    ![](images/azurecreds.jpg)
    
 
 6. Load data and build reports
