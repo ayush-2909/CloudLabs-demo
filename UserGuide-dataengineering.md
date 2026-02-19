@@ -37,7 +37,7 @@ A managed relational database is already deployed.
 
 Connection details are provided in the Enviroment tab.
 
-  ![](images/aws-env.jpg)
+  ![](images/azure-env.jpg)
 
 You can connect using:
 
@@ -46,24 +46,6 @@ You can connect using:
 * Power BI
 
 No AWS login is required.
-
----
-
-### Azure Fabric Workspace
-
-A Fabric workspace and SQL endpoint are already available.
-
-Connection details are provided in the Enviroment tab.
-
-  ![](images/azure-env.jpg)
-    
-You can use:
-
-* Power BI Desktop
-* Jupyter (via SQL endpoint)
-* Spark notebooks (optional)
-
-No Azure portal access is required.
 
 ---
 
