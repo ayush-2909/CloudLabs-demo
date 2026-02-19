@@ -34,22 +34,20 @@ Feel free to **Start, Stop, or Restart (2)** your virtual machine as needed from
  
 1. Microsoft Fabric will automatically open in the browser when you access the virtual machine.
  
-1. Enter the following email/username, and then click on **Submit**.
-
-   * **Email/Username:** <inject key="AzureAdUserEmail"></inject> **(1)**
+1. You will find your credentials to Fabric portal in a desktop file **"AzureCreds"**
+   
+      ![OpenAI](images/azurecreds.jpg)
+ 
+1. Enter the email/AzureUserName present in the file, and then click on **Submit**.
    
       ![OpenAI](images/fabric-portal-login-2108.png)
      
-1. Now enter the following password and click on **Sign in (2)**.
-   
-   * **Temporary Access Pass:** <inject key="AzureAdUserPassword"></inject> **(1)**
+1. Now enter the AzurePassword present in the file and click on **Sign in (2)**.
    
       ![OpenAI](images/TAP-1.png)
 
      
 1. Click Sign in and follow the prompts to sign into Fabric.
- 
-   ![Asklater](images/stay.png)
 
 1. You will be directed to the Fabric Home,click on **Fabric (1)** on the bottom left corner and then select **Power BI (2).**
 
